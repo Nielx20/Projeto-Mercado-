@@ -1,0 +1,174 @@
+niel Tentou logar 2018-08-03 14:24:04.532691
+
+admin Logou 2018-08-03 14:24:15.142365
+
+admin Abriu função de Cadastrar Usuários 2018-08-03 14:24:32.243146
+
+admin Cadastrou um usuario 2018-08-03 14:24:47.720375
+
+admin Retornou a tela anterior 2018-08-03 14:24:50.168275
+
+admin Salvou as informações no arquivo 2018-08-03 14:24:51.170017
+
+admin Retornou a tela anterior 2018-08-03 14:24:52.771261
+
+valci Logou 2018-08-03 14:24:59.712457
+
+admin Logou 2018-08-03 14:25:15.414869
+
+admin Abriu função de Cadastrar Produto 2018-08-03 14:25:22.134356
+
+admin Cadastrou um novo produto 2018-08-03 14:26:08.379451
+
+admin Retornou a tela anterior 2018-08-03 14:26:10.772373
+
+admin Abriu função de Buscar Produto 2018-08-03 14:26:12.839897
+
+admin Verificou o produto 2018-08-03 14:26:18.216218
+
+admin Verificou o produto 2018-08-03 14:26:31.760000
+
+admin Verificou o produto 2018-08-03 14:26:39.672709
+
+admin Retornou a tela anterior 2018-08-03 14:26:42.840160
+
+admin Abriu função de Buscar Produto 2018-08-03 14:26:44.744303
+
+admin Verificou o produto 2018-08-03 14:26:48.941782
+
+admin Retornou a tela anterior 2018-08-03 14:26:52.947253
+
+admin Salvou as informações em um arquivo Ordenado 2018-08-03 14:26:56.453834
+
+admin Logou 2018-09-29 09:45:46.995953
+
+admin Abriu função de Cadastrar Usuários 2018-09-29 09:46:44.005625
+
+admin Retornou a tela anterior 2018-09-29 09:47:20.189070
+
+admin Abriu função de Remover Usuário 2018-09-29 09:47:23.108687
+
+admin Retornou a tela anterior 2018-09-29 09:47:27.155047
+
+admin Abriu função de Cadastrar Usuários 2018-09-29 09:47:28.585757
+
+admin Cadastrou um usuario 2018-09-29 09:47:44.440938
+
+admin Retornou a tela anterior 2018-09-29 09:47:48.474217
+
+admin Abriu função de Remover Usuário 2018-09-29 09:47:53.643146
+
+admin Removeu usuario 2018-09-29 09:47:58.372520
+
+admin Tentou removeu usuário inexistente 2018-09-29 09:48:05.379720
+
+admin Retornou a tela anterior 2018-09-29 09:48:16.965507
+
+admin Abriu função de Cadastrar Produto 2018-09-29 09:48:19.618814
+
+admin Tentou cadastrar produto já existente 2018-09-29 09:48:55.105736
+
+admin Retornou a tela anterior 2018-09-29 09:49:00.472401
+
+admin Abriu função de Buscar Produto 2018-09-29 09:49:01.638023
+
+admin Verificou o produto 2018-09-29 09:49:05.386791
+
+admin Retornou a tela anterior 2018-09-29 09:49:35.206306
+
+admin criptografou o Dicionario de Usuários 2018-09-29 09:50:14.219886
+
+admin Logou 2018-10-19 13:13:07.690854
+
+admin Retornou a tela anterior 2018-10-19 13:13:16.867495
+
+admin Logou 2018-10-19 13:13:19.883506
+
+admin Retornou a tela anterior 2018-10-19 13:13:24.157992
+
+admin Logou 2018-10-19 13:13:25.729484
+
+admin Retornou a tela anterior 2018-10-19 13:13:33.257521
+
+admin Tentou logar 2018-10-19 13:13:44.165956
+
+admin Logou 2018-10-19 13:13:54.626467
+
+admin Abriu função de Cadastrar Usuários 2018-10-19 13:14:03.322558
+
+admin Retornou a tela anterior 2018-10-19 13:22:30.266095
+
+admin Abriu função de Remover Usuário 2018-10-19 13:22:32.115579
+
+admin Retornou a tela anterior 2018-10-19 13:22:34.860300
+
+admin Abriu função de Alterar Nível 2018-10-19 13:22:37.276914
+
+admin Retornou a tela anterior 2018-10-19 13:22:39.196927
+
+admin Logou 2018-10-19 13:23:22.875141
+
+admin Abriu função de Cadastrar Produto 2018-10-19 13:23:26.010514
+
+admin Abriu função Remover Produto 2018-10-19 13:23:27.490967
+
+admin Retornou a tela anterior 2018-10-19 13:23:29.071731
+
+admin Retornou a tela anterior 2018-10-19 13:23:30.455787
+
+admin Abriu função de Buscar Produto 2018-10-19 13:23:31.687793
+
+admin Retornou a tela anterior 2018-10-19 13:23:33.142299
+
+admin Abriu função de Atualizar Produto 2018-10-19 13:23:33.966611
+
+admin Retornou a tela anterior 2018-10-19 13:23:35.314690
+
+admin Salvou as informações no arquivo 2018-10-19 13:23:36.230128
+
+admin Abriu função de Cadastrar Usuários 2018-10-19 13:23:39.062097
+
+admin Cadastrou um usuario 2018-10-19 13:23:48.662379
+
+admin Retornou a tela anterior 2018-10-19 13:23:50.962915
+
+admin Retornou a tela anterior 2018-10-19 13:23:52.294868
+
+miakel Tentou logar 2018-10-19 13:23:59.216448
+
+mikael Logou 2018-10-19 13:24:12.408240
+
+admin Logou 2018-10-20 22:51:19.713307
+
+admin Logou 2018-11-19 14:45:29.669214
+
+admin Abriu função de Cadastrar Produto 2018-11-19 14:45:35.031068
+
+admin Retornou a tela anterior 2018-11-19 14:46:49.660635
+
+admin Abriu função de Buscar Produto 2018-11-19 14:46:50.524639
+
+usuario Tentou logar 2018-11-19 15:57:22.286914
+
+gerente Logou 2018-11-19 15:57:56.858914
+
+gerente Retornou a tela anterior 2018-11-19 15:58:47.875142
+
+caixa Logou 2018-11-19 15:58:54.310370
+
+caixa Retornou a tela anterior 2018-11-19 15:59:17.391293
+
+gerente Logou 2018-11-19 15:59:26.814468
+
+gerente Retornou a tela anterior 2018-11-19 16:02:20.322505
+
+caixa Logou 2018-11-19 16:02:27.737644
+
+admin Logou 2018-11-20 15:10:13.760139
+
+admin Abriu função de Cadastrar Usuários 2018-11-20 15:16:44.933071
+
+admin Retornou a tela anterior 2018-11-20 15:17:25.847880
+
+admin Retornou a tela anterior 2018-11-20 15:17:28.183676
+

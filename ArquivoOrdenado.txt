@@ -1,0 +1,5 @@
+CODIGO: NOME; MARCA; VALIDADE; PREÇO; QUANTIDADE;
+
+001: leite moça; Nestle; 20.06.2018; 4.5; 10; 
+002: cuscuz; Verdinho; 20.06.2018; 0.8; 10; 
+005: pimenta; Valcocpnfeccionses; 12/08/2018; 4.59; 12; 

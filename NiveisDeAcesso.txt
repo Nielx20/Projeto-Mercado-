@@ -1,0 +1,5 @@
+LOGIN;SENHA;NIVEL;
+gerente;gerente;2;
+caixa;caixa;3;
+admin;admin;1;
+valci;valci;1;
